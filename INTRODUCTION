@@ -1,0 +1,25 @@
+# Stock_Market_prediction
+1. Introduction
+   The stock market is basically an aggregation of various buyers and sellers of stock. A stock (also known as shares more commonly) in general represents ownership claims on business by a particular individual or a group of people. The attempt to determine the future value of the stock market is known as a stock market prediction. The prediction is expected to be robust, accurate and efficient. The system must work according to the real-life scenarios and should be well suited to real-world settings. The system is also expected to take into account all the variables that might affect the stock's value and performance.
+
+
+2.PROPOSED SYSTEM
+    In this proposed system, we focus on predicting the stock values using machine learning algorithms like Regression and LSTM. We proposed the system “Stock market price prediction” we have predicted the stock market price using the random forest algorithm. In this proposed system, we were able to train the machine from the various data points from the past to make a future prediction. We took data from the previous year stocks to train the model. We majorly used two machine-learning libraries to solve the problem. The first one was numpy, which was used to clean and manipulate the data, and getting it into a form ready for analysis. The other was scikit, which was used for real analysis and prediction. The data set we used was from the previous years stock markets collected from the public ` database available online, 80 % of data was used to train the machine and the rest 20 % to test the data. The basic approach of the supervised learning model is to learn the patterns and relationships in the data from the training set and then reproduce them for the test data. We used the python pandas library for data processing which combined different datasets into a data frame. The tuned up dataframe allowed us to prepare the data for feature extraction. The dataframe features were date and the closing price for a particular day. We used all these features to train the machine on random forest model and predicted the object variable, which is the price for a given day. We also quantified the accuracy by using the predictions for the test set and the actual values. The proposed system touches different areas of research including data pre-processing.
+    
+3.Technologies
+ 1.Python for backend
+ 2.Flask framework for integration of frontend and backend 
+ 3.HTML & CSS for frontend
+ 
+ 
+# Real Time Stock Price Prediction
+
+
+    $ python app.py
+
+
+In homepage, when the company ticker symbol is given, it fetches historical data (at your Project Loaction) and give the output.
+
+step-6.
+  
+     Navigate to localhost ` http://127.0.0.1:5000/ `(###############) to browse the app.  
