@@ -11,15 +11,6 @@
  2.Flask framework for integration of frontend and backend 
  3.HTML & CSS for frontend
  
- 
-# Real Time Stock Price Prediction
 
 
-    $ python app.py
 
-
-In homepage, when the company ticker symbol is given, it fetches historical data (at your Project Loaction) and give the output.
-
-step-6.
-  
-     Navigate to localhost ` http://127.0.0.1:5000/ `(###############) to browse the app.  
