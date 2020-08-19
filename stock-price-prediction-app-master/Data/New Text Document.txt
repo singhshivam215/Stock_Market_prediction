@@ -1,0 +1,5 @@
+Download the  [dataset]
+
+           (https://www.kaggle.com/camnugent/sandp500#all_stocks_5yr.csv)
+
+ and create a empty folder named "dataset" in the root directory and place the file in it. 
